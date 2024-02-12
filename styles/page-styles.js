@@ -1,3 +1,9 @@
+/*
+Author Nate Lapointe
+Assingment Mines
+Date 02/12/24
+*/
+
 import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({

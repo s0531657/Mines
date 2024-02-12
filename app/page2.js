@@ -1,3 +1,9 @@
+/*
+Author Nate Lapointe
+Assingment Mines
+Date 02/12/24
+*/
+
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, Button, Alert } from 'react-native';
 import { Link } from 'expo-router';
